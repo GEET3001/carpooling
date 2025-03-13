@@ -53,7 +53,7 @@ const UserLogin = () => {
           </button>
         </form>
         <p className="mt-4 text-center text-sm text-gray-600">
-          Don't have an account? <Link to="/user/signup" className="text-blue-600 hover:underline">Sign up</Link>
+          Don't have an account? <Link to="/user/register" className="text-blue-600 hover:underline">Sign up</Link>
         </p>
       </div>
     </div>
